@@ -1,0 +1,16 @@
+{
+  "name": "language-svelte-tree-sitter",
+  "version": "0.1.0",
+  "description": "Svelte Tree-sitter syntax",
+  "keywords": [
+    "language",
+    "grammar",
+    "svelte",
+    "tree-sitter"
+  ],
+  "author": "rixo <rixo@rixo.fr>",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

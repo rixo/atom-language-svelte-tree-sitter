@@ -1,7 +1,7 @@
 {
   "name": "language-svelte-tree-sitter",
   "version": "0.1.0",
-  "description": "Svelte Tree-sitter syntax",
+  "description": "Svelte Tree-sitter grammar",
   "keywords": [
     "language",
     "grammar",
